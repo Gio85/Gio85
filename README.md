@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       11 hrs 5 mins   ████████████████████░░░░░   80.38 %
-TypeScript       1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-JSON             52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-GraphQL          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript       7 hrs 59 mins   █████████████████▒░░░░░░░   68.75 %
+TypeScript       1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+JSON             1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+GraphQL          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
