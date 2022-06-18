@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       15 hrs 23 mins  ██████████████████████░░░   87.51 %
-Bash             1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Shell Script     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Properties       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript       11 hrs 35 mins  █████████████████████░░░░   84.65 %
+Bash             1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Shell Script     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Properties       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
