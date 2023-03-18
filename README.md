@@ -63,4 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 1](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-1-16b3)
+- [Comprendere &#39;this&#39; in JavaScript: una guida per padroneggiare il suo comportamento nelle funzioni freccia e anonime](https://dev.to/gg_dev/comprendere-this-in-javascript-una-guida-per-padroneggiare-il-suo-comportamento-nelle-funzioni-freccia-e-anonime-361h)
+- [Mastering JavaScript Array Methods: Your Ultimate Guide — part 1 —](https://dev.to/gg_dev/mastering-javascript-array-methods-your-ultimate-guide-part-1--5b8i)
+- [Mastering the “this” Keyword in JavaScript: A Guide to Understanding its Behaviors in Arrow and Anonymous Functions](https://dev.to/gg_dev/mastering-the-this-keyword-in-javascript-a-guide-to-understanding-its-behaviors-in-arrow-and-anonymous-functions-4e7k)
 <!-- BLOG-POST-LIST:END -->
