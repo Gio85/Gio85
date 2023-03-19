@@ -69,6 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 2](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-2-2a6g)
 - [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 1](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-1-16b3)
 - [Comprendere &#39;this&#39; in JavaScript: una guida per padroneggiare il suo comportamento nelle funzioni freccia e anonime](https://dev.to/gg_dev/comprendere-this-in-javascript-una-guida-per-padroneggiare-il-suo-comportamento-nelle-funzioni-freccia-e-anonime-361h)
 - [Mastering JavaScript Array Methods: Your Ultimate Guide — part 1 —](https://dev.to/gg_dev/mastering-javascript-array-methods-your-ultimate-guide-part-1--5b8i)
