@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Italy :it: based in UK 🇬🇧.
 
-- :telescope: I’m working as a Software Engineer at <a href="[https://twitter.com/GG_Dev10](https://www.holidayextras.com/)" target="_blank">
+- :telescope: I’m working as a Senior Software Engineer at <a href="[https://twitter.com/GG_Dev10](https://www.holidayextras.com/)" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/286993?s=200&v=4" alt="holiday extras"  width="20"/>
   </a>
 
